@@ -1,9 +1,10 @@
+
 {
   "name": "Bear & Piano — Typing Game",
   "short_name": "Bear & Piano",
   "description": "Bear and the Piano 책 연계 영어 타이핑 피아노 게임",
-  "start_url": "./index.html",
-  "scope": "./",
+  "start_url": "/thebearandthepiano_activity/index.html",
+  "scope": "/thebearandthepiano_activity/",
   "display": "standalone",
   "background_color": "#FFF8EE",
   "theme_color": "#2D5016",
